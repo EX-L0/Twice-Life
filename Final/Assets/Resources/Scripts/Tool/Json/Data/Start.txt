@@ -1,0 +1,35 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "小张",
+    "TalkStr": "你好"
+  },
+  "2": {
+    "ID": 2,
+    "Name": "我",
+    "TalkStr": "你好"
+  },
+  "3": {
+    "ID": 3,
+    "Name": "小张",
+    "TalkStr": "这个点了"
+  },
+  "4": {
+    "ID": 4,
+    "TalkStr": "吃了吗"
+  },
+  "5": {
+    "ID": 5,
+    "Event": 1
+  },
+  "6": {
+    "ID": 6,
+    "EventTalk": "吃了",
+    "NextPath": "Eat"
+  },
+  "7": {
+    "ID": 7,
+    "EventTalk": "没吃",
+    "NextPath": "NoEat"
+  }
+}
